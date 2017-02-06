@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragment3D</string>
+    <string name="jump_to_next"><![CDATA[Jump to next ->]]></string>
+    <string name="back_to_front"><![CDATA[<- Back to Front]]></string>
+</resources>
